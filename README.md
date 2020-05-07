@@ -20,3 +20,10 @@ Esse projeto foi feito para os DEVs, que desejam aprender e utilizar a bibliotec
 ## Pré requisitos :brazil:
 * [Python3.7](https://www.python.org/downloads/release/python-377/)
 * [Pygame1.9.6](https://www.pygame.org/download.shtml)
+
+## License 
+* [MIT License](https://github.com/gusttaa/Game_breakout/blob/master/LICENSE)
+
+## Author
+| [<img src="https://avatars2.githubusercontent.com/u/53372956?s=400&u=20e6ce9849584679bc01b474239e0778e57b7acc&v=4" width=115><br><sub>@gusttaa</sub>](https://github.com/gusttaa) |
+| :---: |
