@@ -1,4 +1,6 @@
 # Game_breakout
+![Game screen image](https://github.com/gusttaa/Game_breakout/blob/master/screenshot.png)
+
 ## Description :us:
 It is a simple enough game for anyone to learn important concepts about software development. It was made by [@gusttaa](https://github.com/gusttaa), inspired by the game Breakout made by **Atari**, with the participation of **Steve Jobs**.
 
